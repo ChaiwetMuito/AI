@@ -16,4 +16,4 @@ def SER():
 
 if __name__ == '__main__':
     app.debug = True
-    app.run(host='localhost', port=8000)
+    app.run(host='107.21.196.212', port=8000)
